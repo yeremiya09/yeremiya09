@@ -10,6 +10,7 @@
   
   <a href="mailto:kimjw0593@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kimjw0593@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <p>
   👋&nbsp; .🚀<br/>
