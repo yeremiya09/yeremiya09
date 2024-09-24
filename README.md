@@ -13,11 +13,11 @@
 </p>
 
 <p>
-  👋&nbsp; Hi there! I'm <b>full stack developer</b> skilled in API, WEB, and APP.🚀<br/>
-  I have experience 7 years of Android development and 2 years of iOS development.<br/>
-  At present, I have been interested in creating Graph-QL APIs with Quarkus and a web screen with React.<br/>
-  Sometimes I develop cross-platforms mobile app like ReactNative or Flutter. (but prefer native💖)<br/><br/>
-  I enjoy hiking, swimming, dive and surf. ⛰ 🏄<br/>
+  👋&nbsp; .🚀<br/>
+  .<br/>
+  .<br/>
+  <br/><br/>
+   🏄<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
 
